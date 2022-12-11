@@ -68,6 +68,12 @@ a {
   margin-bottom: 25px;
   padding: 10px;
 }
+.legend img {
+  display: block;
+  margin: 0 auto;
+  max-width: 70%;
+  padding: 30px;
+}
 .main-story h3 {
   font-size: 40px;
   margin-bottom: 15px;
@@ -77,4 +83,10 @@ a {
 .part {
   margin-bottom: 15px;
   padding: 10px;
+}
+.img-castle,
+.img-przadki {
+  text-align: center;
+  font-size: 13px;
+  margin-bottom: 30px;
 }
