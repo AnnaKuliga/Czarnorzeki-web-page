@@ -113,3 +113,14 @@ a {
 .open-source a:hover {
   color: white;
 }
+.gallery {
+  margin: 20px 50px;
+}
+.gallery img {
+  transform: 1s;
+  padding: 15px;
+  width: 200px;
+}
+.gallery img:hover {
+  filter: grayscale(100%);
+}
