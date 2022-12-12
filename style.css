@@ -133,3 +133,7 @@ a {
   justify-content: center;
   flex-direction: column;
 }
+.container h2 {
+  margin: 15px;
+  text-align: center;
+}
