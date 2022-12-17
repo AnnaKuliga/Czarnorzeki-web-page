@@ -35,7 +35,6 @@ a {
 
 .nav .name {
   font-size: 40px;
-
   color: rgb(53, 47, 47);
   text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
   padding: 5px;
@@ -57,7 +56,7 @@ a {
   transition: 0.4s;
 }
 .nav-menu ul a:hover {
-  color: rgb(201, 201, 202);
+  color: rgb(253, 253, 255);
 }
 .legend {
   display: block;
@@ -114,7 +113,7 @@ a {
   color: white;
 }
 .gallery {
-  margin: 20px 50px;
+  margin: auto;
 }
 .gallery img {
   transform: 1s;
