@@ -129,3 +129,15 @@ a {
   text-align: center;
   font-size: 30px;
 }
+
+.phone-nr {
+  padding-left: 80px;
+}
+.col-sm-3,
+.col-sm-2 {
+  color: white;
+  margin-top: 20px;
+}
+.container a {
+  color: white;
+}
